@@ -1,0 +1,40 @@
+.nav-header{
+    background-color:#ffe26a;
+    display: flex;
+    height: 5rem;
+    justify-content: space-between;
+    padding: 0 4rem;
+}
+caption{
+    margin-top: 1rem;
+    color: rgb(15, 15, 15);
+}
+.nav-content ul{
+    display: flex;
+    gap: 4rem;
+    list-style: none;
+    color: rgb(252, 251, 251);
+}
+.nav-content li{
+    /* cursor: pointer; */
+    /* border: 1px solid #333; */
+    /* border-radius: 20px; */
+    padding: 13px 8px;
+    font-size: 20px;
+    transition: font-size 1s;
+}
+.nav-content li:hover{
+    font-size: 25px;
+    color: #269;
+}
+.nav-content li:checked{
+    background-color: #777;
+    color: white;
+}
+#Home,
+#Product,
+#About,
+#Contact{
+    text-decoration: none;
+    color: rgb(7, 7, 7);
+}

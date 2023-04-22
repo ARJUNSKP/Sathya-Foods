@@ -1,0 +1,22 @@
+.product_tab{
+    display: flex;
+    flex-direction: column;
+    margin: 0 2rem;
+    margin-top: 1.8rem;
+}
+.rows{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1.8rem 0;
+}
+.product-main{
+    background-color: #ffe26a;
+    margin-top: -32px;
+}
+.product_tab label{
+    text-align: center;
+    margin-top: 4rem;
+    font-family: forte;
+    font-size: 2rem;
+}

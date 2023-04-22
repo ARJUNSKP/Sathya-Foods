@@ -1,0 +1,73 @@
+#contact{
+    display: flex;
+    background-color:#ffe26a ;
+    /* margin: 7rem 27rem ; */
+}
+#contact-address{
+    display: flex;
+    flex-direction: column;
+    margin: 5.5rem 15rem;
+}
+#tableform{
+    margin: 3rem -1rem;
+    padding: 1rem;
+}
+.name{
+    width: 15rem;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: .5rem 1rem;
+    border-bottom: blue;
+    color: rgb(0, 157, 255);
+    font-size: 1rem;
+}
+.feedback{
+    margin-top: 2.5rem;
+    padding-left: 1rem;
+    width: 33rem;
+    border-radius: 5px;
+    border: 1px solid black;
+    border-bottom: blue;
+    color: rgb(0, 154, 250);
+    font-size: 1rem;
+}
+.subject{
+    margin-top: 2rem;
+    width: 33rem;
+    height: 1.9rem;
+    padding-left: 1rem;
+    border-bottom: blue;
+    border-radius: 5px;
+    border: 1px solid black;
+    color: rgb(0, 157, 255);
+    font-size: 1rem;
+}
+#btn{
+    margin-top: 1rem;
+    padding: 10px 2.5rem;
+    color: rgb(0, 0, 0);
+    background-color:rgb(161, 233, 255);
+    border: 1px solid black;
+    border-radius: 2rem;
+}
+#btn:checked{
+    background-color: rgb(33, 165, 226);
+}
+
+/* #tableform{
+    margin: 5rem 3rem;
+}
+#subject{
+    width: 22rem;
+    margin-left: -3rem;
+    padding: 1rem 0;
+}
+#feedback{
+    width: 22rem;
+    margin-left: -3rem;
+    padding: 1rem;
+}
+#tableform{
+    width: 27rem;
+    height: 21rem; */
+/* } */

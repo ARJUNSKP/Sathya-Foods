@@ -1,0 +1,41 @@
+.Home{
+    background-color: #ffe26a;
+    height: 100%;
+    width: 100%;
+    margin: -1.4rem 0 ;
+    padding-bottom: 3.5rem;
+}
+.hashtag{
+    height: 15rem;
+    padding-bottom: 7.5rem;
+}
+.hashtag h1{
+    margin:1rem;
+    font-family: forte;
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 7.5rem;
+    
+}
+.hashtag h3{
+    text-align: center;
+}
+.new-product-1{
+    display: flex;
+    justify-content: space-around;
+    margin: 2rem;
+}
+.new-product-2{
+    display: flex;
+    justify-content: space-around;
+    margin: 2rem;
+}
+.new-product-main{
+    text-align: center;
+}
+/* #background-img{
+    width: 1349px; 
+    height: 165px; 
+    object-fit: cover; 
+    object-position: 50% 50%;
+} */
