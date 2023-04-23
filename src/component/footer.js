@@ -8,7 +8,7 @@ function Footer() {
   return (
     <div className='footer-body'>
         <div className='customer-scrvise'>
-          <h4>Customer Scrvise</h4><br/>
+          <h4>Customer Scrvice</h4><br/>
           <h5>1234567891</h5>
         </div>
         <div className='shoping'>
