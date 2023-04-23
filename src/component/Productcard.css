@@ -18,3 +18,45 @@
 .card-main{
     text-align: center;
 }
+.card-main{
+    width: 18rem;
+}
+
+
+
+/*****************************************************/
+
+@media screen and (max-width: 1450px){
+    .card-main{
+        width: 15rem;
+        height: 27rem;
+    }
+}
+
+@media screen and (max-width:1150px) {
+    .card-main{
+        width: 14rem;
+        height: 20rem;
+        display: flex;
+        padding: 7px 4px;
+        flex-direction: column;
+        margin: -5px 0 -16px;
+    }
+    .new-product img{
+        border-radius: 10px;
+        border: 2px solid #999;
+        height: 8rem;
+        width:99%;
+    }
+    .card-main h2{
+        margin-top: 0;
+    }
+    .card-main h4{
+        margin-top: -10px;
+    }
+    .new-product{
+        padding: 0;
+        margin: 0;
+    }
+
+}

@@ -8,7 +8,7 @@ import CardImg from 'react-bootstrap/esm/CardImg';
 function Product() {
   return (
     <div className='new-product'>
-      <Card className='card-main' style={{ width: '18rem'}}>
+      <Card className='card-main'>
         <CardImg orientation="top" src={Choco}/>
         <h2>Product name</h2>
         <h4> Some quick example text to build on the card title and make up the bulk of the card's content.</h4>
