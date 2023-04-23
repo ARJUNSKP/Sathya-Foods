@@ -1,5 +1,4 @@
 import React from 'react';
-import Logo from '../asset/sf_logo.png';
 import './Header.css';
 import {Link} from "react-router-dom";
 
