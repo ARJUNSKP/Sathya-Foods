@@ -15,7 +15,7 @@ function Header() {
                     <ul>
                         <Link to='/' id='Home'><li>Home</li></Link>
                         <Link to='/Product' id='Product'><li>Product</li></Link>
-                        <Link to='./About' id='About'><li>About</li></Link>
+                        {/* <Link to='./About' id='About'><li>About</li></Link> */}
                         <Link to='./Contact' id='Contact'><li>Contact</li></Link>
                     </ul>
                 </div>
