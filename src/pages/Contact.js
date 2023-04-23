@@ -6,9 +6,9 @@ function Contact() {
     <div id='contact'>
       <div id='contact-address'>
         <h1>Contact Us</h1><br/>
-        <h3><u>sathyafoods@gmmail.com</u><br/>
+        <h3><u>sathyafoods@gmail.com</u><br/>
         1234567891 </h3><br/>
-        <h4>Sathayafoods,Villapaliy,<br/>
+        <h4>Sathyafoods,villiappally,<br/>
           Vadakara,kozhikode,kerala</h4>
       </div>
       <div className='contact_table'>
